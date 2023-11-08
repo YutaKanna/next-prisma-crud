@@ -1,1 +1,1 @@
-# aws-playground
+# next-prisma-crud
